@@ -98,14 +98,17 @@ button:active {
     }
 
     .input-min {
-        margin: 20px auto 20px
+        margin: 20px auto 20px;
+        width: 300px;
     }
 
     .input-max {
-        margin: 20px auto 20px
+        margin: 20px auto 20px;
+        width: 300px;
     }
 
     button {
         margin-top: 40px;
+        width: 300px;
     }
 }
